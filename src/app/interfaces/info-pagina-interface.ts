@@ -8,7 +8,7 @@ export interface InfoPagina {
     twitter?: string;
     instagram?: string;
     tublr?: string;
-    equipo_personal?: [
+    equipo?: [
       {frase?: string;
         nombre?: string;
         subtitulo: string;

@@ -40,7 +40,7 @@ to {
 animation-name: fadeIn;
 }
 
-body{
+.rk-portfolio{
   padding: 1em;
   background: white;
   color: #777;

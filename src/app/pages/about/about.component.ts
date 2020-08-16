@@ -9,7 +9,7 @@ import { InfoPaginaService } from '../../services/info-pagina.service';
 })
 export class AboutComponent implements OnInit {
 
-  constructor(public _servicio: InfoPaginaService) { }
+  constructor(public infoPaginaService: InfoPaginaService) { }
 
   ngOnInit(): void {
   }
